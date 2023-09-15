@@ -1,6 +1,6 @@
 <p align="center">
 
-![image](https://github.com/CarlosAlvarado0718/Network-F-P/assets/140138198/1e66e75f-f8e7-48bf-8e6b-44effceaf36c)
+![image](https://github.com/aGomez1241/configure-ad)
 
 
 </p>
