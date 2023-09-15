@@ -10,7 +10,7 @@
 This Tutorial will guide you through the process of setting up Network File Shares and Permissions using Windows Server and Active Directory. 
 
 >**Note***
->_The following uses material created in the previous demonstration, ["On-premises Active Directory Deployed in the Cloud (Azure)"](https://github.com/CarlosAlvarado0718/Configure-AD)._
+>_The following uses material created in the previous demonstration, ["On-premises Active Directory Deployed in the Cloud (Azure)"](https://github.com/aGomez1241/configure-ad))._
 
 <h2>Environments and Technologies Used</h2>
 
