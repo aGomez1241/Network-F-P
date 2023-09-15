@@ -185,5 +185,3 @@ This Tutorial will guide you through the process of setting up Network File Shar
 - You are now able to read and write in the Accounting Folder!!
 
 ![image](https://github.com/CarlosAlvarado0718/Network-F-P/assets/140138198/97ba878d-a714-4a59-86fd-6c1276c16f18)
-
-<h1>ALL DONE!!! CONGRATS!!!</h1>
