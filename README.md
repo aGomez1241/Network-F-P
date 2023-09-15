@@ -1,6 +1,6 @@
 <p align="center">
 
-![image](https://github.com/aGomez1241/configure-ad)
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 
 
 </p>
